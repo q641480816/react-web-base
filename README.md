@@ -1,6 +1,6 @@
 # react-web-base
 
-> Web base component with some basic features for ReactJs
+> Base web component with features for ReactJs
 
 [![NPM](https://img.shields.io/npm/v/react-web-base.svg)](https://www.npmjs.com/package/react-web-base) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -28,4 +28,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [Liu, Jinlong](https://github.com/Liu, Jinlong)
+MIT © [q641480816](https://github.com/q641480816)

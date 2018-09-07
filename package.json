@@ -1,8 +1,8 @@
 {
   "name": "react-web-base",
   "version": "1.0.0",
-  "description": "Web base component with some basic features for ReactJs",
-  "author": "Liu, Jinlong",
+  "description": "Base web component with features for ReactJs",
+  "author": "q641480816",
   "license": "MIT",
   "repository": "q641480816/react-web-base",
   "main": "dist/index.js",
